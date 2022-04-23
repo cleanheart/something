@@ -1,0 +1,145 @@
+@media(max-width:1100px){
+    .hero-section .txt{
+        width: 900px;
+    }
+}
+@media(max-width:1000px){
+    .hero-section .txt{
+        max-width: 900px;
+    }
+}
+@media(max-width:970px){
+    .hero-section .txt{
+        max-width: 850px;
+    }
+}
+@media(max-width:937px){
+    .footer-area .social-list a{
+        padding: 20px;
+    }
+}
+@media(max-width:920px){
+    .hero-section .txt{
+        max-width: 800px;
+    }
+}
+@media(max-width:903px){
+    .service-section .service-container .col{
+        width: 33.333%;
+    }
+}
+@media(max-width:855px){
+    .hero-section .txt{
+        max-width: 700px;
+    }
+}
+@media(max-width:797px){
+    .footer-area .social-list a{
+        padding: 0px 20px;
+        margin-bottom: 20px;
+    }
+}
+@media(max-width:770px){
+    .team-section .col{
+        box-sizing: border-box;
+        width: 50%;
+        margin-bottom: 50px;
+    }
+}
+@media(max-width:755px){
+    .hero-section .txt{
+        max-width: 600px;
+    }
+}
+@media(max-width:700px){
+    .header .menu ul{
+        display: none;
+    }
+    .header .mobile-bar{
+        display: inline-block;
+        padding-right: 25px;
+    }
+    .hero-section .txt{
+        max-width: 550px;
+    }
+    
+}
+@media(max-width:679px){
+    .service-section .service-container .col{
+        width: 50%;
+    }
+
+    .testimonial-area .fidback-content .row .col{
+        width: 100%;
+    }
+    .testimonial-area .clients-info{
+        margin-top: 10px;
+    }
+}
+@media (max-width:630px){
+    .hero-section .txt{
+        max-width: 530px;
+    }
+}
+@media (max-width:600px){
+    .hero-section .txt{
+        max-width: 450px;
+    }
+}
+
+
+@media(max-width:550px){
+
+    .portfolio-section .filter-columns .row .col{
+        width: 100%;
+    }
+}
+@media (max-width:530px){
+    .hero-section .txt{
+        max-width: 400px;
+    }
+}
+@media(max-width:500px){
+    .hero-section .txt h1{
+        font-size: 30px;
+    }
+
+    .contact-form .input-area{
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+        gap: 0;
+    }
+}
+@media (max-width:490px){
+    .hero-section .txt{
+        max-width: 350px;
+    }
+}
+
+
+
+@media(max-width:451px){
+    .service-section .service-container .col{
+        width: 100%;
+    }
+    .team-section .col{
+        width: 100%;
+    }
+}
+@media (max-width:425px){
+    .hero-section .txt{
+        max-width: 300px;
+    }
+}
+@media (max-width:385px){
+    .hero-section .txt{
+        max-width: 250px;
+    }
+}
+@media(max-width:379px){
+    .portfolio-section .portfolio-title .heading h3{
+        font-size: 35px;
+    }
+}
